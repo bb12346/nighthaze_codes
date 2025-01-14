@@ -1,6 +1,8 @@
 ## <a href="https://arxiv.org/abs/2403.07408">NightHaze: Nighttime Image Dehazing via Self-Prior Learning (AAAI‘25) </a>
 <div align="center">
 Beibei Lin*, Yeying Jin*,  Wending Yan,  Wei Ye,  Yuan Yuan,  Robby T. Tan
+
+National University of Singapore, Huawei International Pte Ltd
 </div>
 <div align="center">
   
