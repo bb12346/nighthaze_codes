@@ -1,0 +1,26 @@
+data:
+    dataset: "RealSHaze"
+    image_size: 224
+    num_workers: 3
+    data_dir: "/disk1/beibei/proj/NightHaze_release/data"
+    conditional: True
+
+
+training:
+    patch_n: 1
+    batch_size: 128
+    n_epochs: 37042
+    n_iters: 2000000
+    snapshot_freq: 2500
+    validation_freq: 2000
+
+sampling:
+    batch_size: 1
+    last_only: True
+
+optim:
+    weight_decay: 0.000
+    optimizer: "Adam"
+    lr: 0.00002
+    amsgrad: False
+    eps: 0.00000001
