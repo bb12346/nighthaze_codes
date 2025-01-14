@@ -1,5 +1,7 @@
 ## <a href="https://arxiv.org/abs/2403.07408">NightHaze: Nighttime Image Dehazing via Self-Prior Learning （AAAI‘25） </a>
 
+Beibei Lin*, Yeying Jin*,  Wending Yan,  Wei Ye,  Yuan Yuan,  Robby T. Tan
+
 <div align="center">
   
 [![demo platform](https://img.shields.io/badge/NightHaze%20project%20page-lightblue)](https://bb12346.github.io/Proj_NightHaze/)&nbsp;
