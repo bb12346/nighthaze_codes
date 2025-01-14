@@ -6,3 +6,9 @@
 [![arXiv](https://img.shields.io/badge/arXiv%20paper-2403.07408-b31b1b.svg)](https://arxiv.org/abs/2403.07408)&nbsp;
 
 </div>
+
+
+## Inference Scripts
+
+To test our Nighthaze, you can run the following command:
+```shell
