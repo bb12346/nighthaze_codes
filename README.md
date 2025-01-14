@@ -39,6 +39,12 @@ CUDA_VISIBLE_DEVICES=0,1,2,3 nohup python -u eval_diffusion.py \
 
 ```
 
+## To-do
+- [x] Release the model and parameters of the self-prior learning stage.
+- [ ] Release the model and parameters of the self-refinement stage.
+- [ ] Release the training code.
+
+
 ## Acknowledgments
 Code is implemented based [WeatherDiffusion](https://github.com/IGITUGraz/WeatherDiffusion), we would like to thank them.
 
