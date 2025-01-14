@@ -1,6 +1,7 @@
 # Official Codes for NightHaze (AAAI'25)
 
-## NightHaze: Nighttime Image Dehazing via Self-Prior Learning 
+## <a href="https://arxiv.org/abs/2403.07408">NightHaze: Nighttime Image Dehazing via Self-Prior Learning </a>
+NightHaze: Nighttime Image Dehazing via Self-Prior Learning 
 
 <p align="center" style="font-size: larger;">
   <a href="https://arxiv.org/abs/2403.07408">NightHaze: Nighttime Image Dehazing via Self-Prior Learning </a>
