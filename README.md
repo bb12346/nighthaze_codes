@@ -22,7 +22,7 @@ self.testlist = ['haze']
 
 3. run the following codes using --sid "haze" 
 CUDA_VISIBLE_DEVICES=3,4,5,6,7 nohup python -u eval_diffusion.py --sid "haze" --config "RealSHaze.yml" --resume 'param/NightHaze_SPL_2w.pth.tar' > log_test.txt 2>&1 &
-
+```
 
 ## Acknowledgments
 Code is implemented based [WeatherDiffusion](https://github.com/IGITUGraz/WeatherDiffusion), we would like to thank them.
