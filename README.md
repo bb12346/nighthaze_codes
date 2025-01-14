@@ -1,4 +1,4 @@
-# <a href="https://arxiv.org/abs/2403.07408">NightHaze: Nighttime Image Dehazing via Self-Prior Learning （AAAI‘25） </a>
+## <a href="https://arxiv.org/abs/2403.07408">NightHaze: Nighttime Image Dehazing via Self-Prior Learning （AAAI‘25） </a>
 
 <div align="center">
   
