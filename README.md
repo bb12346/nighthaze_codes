@@ -2,6 +2,10 @@
 
 ## NightHaze: Nighttime Image Dehazing via Self-Prior Learning 
 
+<p align="center" style="font-size: larger;">
+  <a href="https://arxiv.org/abs/2403.07408">NightHaze: Nighttime Image Dehazing via Self-Prior Learning </a>
+</p>
+
 <div align="center">
   
 [![demo platform](https://img.shields.io/badge/NightHaze%20project%20page-lightblue)](https://bb12346.github.io/Proj_NightHaze/)&nbsp;
